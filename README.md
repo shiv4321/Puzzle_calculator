@@ -25,8 +25,14 @@ The Puzzle Calculator is a simple Python script that combines a calculator with 
 
 4. Follow the on-screen prompts to use the Puzzle Calculator.
 
+
+## Potential Error
+Sometimes, users may encounter the following error when opening the app:
+StreamlitDuplicateElementKey: This app has encountered an error. The original error message is redacted to prevent data leaks. Full error details have been recorded in the logs
+
+This error is often irrelevant and can be safely ignored. The app should continue to function properly, and you can proceed to use it without any issues.
+
+
 ## Contributions
 
 Contributions to the Puzzle Calculator project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-
