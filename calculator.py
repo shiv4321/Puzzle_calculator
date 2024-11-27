@@ -1,3 +1,4 @@
+import streamlit as st
 import random
 
 def generate_puzzle(answer):
@@ -79,3 +80,5 @@ def calculator():
 
 # Run the calculator
 calculator()
+
+st.write()
