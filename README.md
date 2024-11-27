@@ -32,6 +32,10 @@ StreamlitDuplicateElementKey: This app has encountered an error. The original er
 
 This error is often irrelevant and can be safely ignored. The app should continue to function properly, and you can proceed to use it without any issues.
 
+## Live App
+You can access the live app here:shiv4321-puzzle-calculator-calculator-ldzlmu.streamlit.app
+
+
 
 ## Contributions
 
